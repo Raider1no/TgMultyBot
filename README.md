@@ -8,8 +8,9 @@ This is a bot for telegram, that can chat with users, create images using any SD
    pip install -r requirements.txt
    ```
 3) Now go to api_keys.py and change it with your api keys.
+4) If you want to use Stable Diffusion also install [SwarmUI](https://github.com/Stability-AI/StableSwarmUI)
 ## How To Use
-Once you created your Bot with BotFather - you ready to go! Try type /help to your bot.
+Once you created your Bot with BotFather - run main.py and you ready to go! Try type /help to your bot.
 If u reply on bot message or tag it with @ - bot will answer you using Gemini API.
 If bot sees any voice message - this message will be translated in text automatically.
 All commands can be found(and chanched as you wish) in [main](main.py) file.
